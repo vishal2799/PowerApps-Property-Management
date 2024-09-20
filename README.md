@@ -1,6 +1,6 @@
 # Property Management Solution
 
-This Power Apps-based solution helps manage properties, reservations, and contacts. Below are screenshots of key app screens.
+This Power Apps-based solution is designed to manage properties, reservations, and contacts efficiently. It includes a Canvas app for user interaction, a dataflow that transforms JSON data into a usable table format, and a Dataverse table that stores property and contact information. Below are screenshots of key app screens and solution components.
 
 ## App Screenshots
 
@@ -33,3 +33,13 @@ _Displays the list of contacts associated with the properties._
 
 ![Edit Contact Screen](./assets/EditContact.png)
 _Allows users to edit contact details._
+
+## Solution Overview
+
+![Solution Overview](./assets/Solution.png)
+_This screenshot shows the complete solution structure, including all components._
+
+## Dataverse Table
+
+![Dataverse Table](./assets/DataverseTable.png)
+_This screenshot shows the schema and fields of the main Dataverse table used in the app._
